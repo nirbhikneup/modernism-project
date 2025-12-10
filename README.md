@@ -16,7 +16,7 @@ This website is a small digital exhibit exploring two WWI-era modernist response
 Next.js (App Router), TypeScript, Tailwind CSS
 
 ## Live Demo
-[Add your Vercel link here]
+https://modernism-project.vercel.app/
 
 ## How to Run Locally
 ```bash
